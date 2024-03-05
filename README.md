@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Java, DSA**
 
-- 📫 How to reach me **guptashagun1213@gmmail.com**
+- 📫 How to reach me **guptashagun1213@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
