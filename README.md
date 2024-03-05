@@ -4,7 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shagun12gupta" alt="shagun12gupta" /></a> </p>
 <img align="right" alt="coding " width="200" src ="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-- 🌱 I’m currently learning **React,Angular,NodeJS**
+
+- 🌱 I’m currently learning <b>React,Angular,NodeJS</b>
 
 - 📝 I regularly write articles on [https://medium.com/@guptashagun1213](https://medium.com/@guptashagun1213)
 
