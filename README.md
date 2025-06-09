@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shagun Gupta</h1>
-<h3 align="center">Frontend Developer | Cybersecurity Enthusiast 🔐</h3>
+<h3 align="center"> Cybersecurity Enthusiast | Developer🔐</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shagun12gupta&label=Profile%20views&color=0e75b6&style=flat" alt="shagun12gupta" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shagun12gupta&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagun12gupta&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=shagun12gupta&theme=gruvbox&no-frame=true&margin-w=10&margin-h=10" 
+      alt="GitHub Trophies" 
+      />
+  </a>
 </p>
 
 
