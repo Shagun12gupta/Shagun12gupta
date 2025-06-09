@@ -42,22 +42,31 @@
   <img src="https://www.pinclipart.com/picdir/big/107-1077742_kali-linux-kali-linux-logo-png-clipart.png" alt="Kali Linux" width="40" height="40"/>
 </a>
 <a href="https://www.wireshark.org" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/>
+  <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" width="40" height="40"/>
 </a>
 <a href="https://portswigger.net/burp" target="_blank">
   <img src="https://cdn.simpleicons.org/portswigger" alt="Burp Suite" width="40" height="40"/>
 </a>
 <a href="https://www.splunk.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Splunk_logo.svg" alt="Splunk" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/WQaBXmx4rzwLpwaWWjUWCmnYlBG-KTuuYyoB3W-iEIs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYWlu/c3RheWNvbXBhbnku/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI0LzAxL1NwbHVu/ay1sb2dvLnBuZw" alt="Splunk" width="40" height="40"/>
 </a>
 <a href="https://www.virustotal.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/VirusTotal_Logo.svg" alt="VirusTotal" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/UHtB8TgRMglnWnJfsjXtwC5YrK2BWy4muHbGxYckwrc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy92aXJ1c3RvdGFs/LTEuc3Zn" alt="VirusTotal" width="40" height="40"/>
 </a>
 <a href="https://www.linux.org" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com" target="_blank">
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/>
+</a>
+  <a href="https://www.metasploit.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Metasploit_logo.svg" alt="Metasploit" width="40" height="40" />
+</a>
+  <a href="https://www.openvas.org" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/OpenVAS_Logo.svg" alt="OpenVAS" width="40" height="40" />
+</a>
+  <a href="https://www.aircrack-ng.org" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Aircrack-ng_Logo.svg" alt="Aircrack-ng" width="40" height="40" />
 </a>
 </a> </p>
 
