@@ -39,7 +39,7 @@
 <p align="left"> <!-- Programming & Scripting --> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </a> <!-- Security Tools -->
 <a href="https://www.kali.org" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Kali_Linux_Logo.svg" alt="Kali Linux" width="40" height="40"/>
+  <img src="https://www.pinclipart.com/picdir/big/107-1077742_kali-linux-kali-linux-logo-png-clipart.png" alt="Kali Linux" width="40" height="40"/>
 </a>
 <a href="https://www.wireshark.org" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Wireshark_Logo.svg" alt="Wireshark" width="40" height="40"/>
