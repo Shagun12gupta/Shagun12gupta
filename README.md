@@ -21,7 +21,7 @@
 - 🛡️ Interested in **Security Development**, especially creating small scripts to enhance basic security
 - 📝 I write on Medium: [@guptashagun1213](https://medium.com/@guptashagun1213)
 - 💬 Ask me about **Cybersecurity, Scripting, Networking, Python**
-- 📫 Reach me at **guptashagun1213@gmail.com**
+- 📫 Reach me at **shagun1217gupta@gmail.com**
 
 ---
 
